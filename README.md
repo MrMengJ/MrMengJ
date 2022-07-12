@@ -1,5 +1,5 @@
 ![](https://gv.halberd.cn/MrMengJ?theme=stroke-colorful&active=3200ff&deactive=f1f1f1&len=4&speed=40&size=50&space=5&tail=1)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MrMengJ&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&line_height=32&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MrMengJ&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=32&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 
 ### I'm MrMengJ
 - A hard, a harvest
@@ -11,7 +11,7 @@
 
 ### Github Activity
 
-![](https://activity-graph.herokuapp.com/graph?username=MrMengJ&theme=github-light)
+![](https://activity-graph.herokuapp.com/graph?username=MrMengJ&theme=github-light&area=true)
 
 &emsp;
 
