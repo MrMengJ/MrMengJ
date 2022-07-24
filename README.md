@@ -37,14 +37,9 @@
 
 #### Know/Using
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.npmjs.com/" target="_blank"><img height="50" alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></a></code>
-<code><a href="https://classic.yarnpkg.com/lang/en/" target="_blank"><img height="50" alt="yarn" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></a></code>
 <code><a href="https://pnpm.io/" target="_blank"><img height="50" alt="pnpm" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pnpm.svg"></a></code>
 <code><a href="https://eslint.org/" target="_blank"><img height="50" alt="eslint" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg"></a></code>
 <code><a href="https://prettier.io/" target="_blank"><img height="50" alt="prettier" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/prettier.svg"></a></code>
-<code><a href="https://www.jetbrains.com/zh-cn/webstorm/" target="_blank"><img height="50" alt="webstorm" src="https://github.com/MrMengJ/MrMengJ/blob/main/webstorm.png"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" alt="visualstudio"  src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-
 
 <!--
 <a>
