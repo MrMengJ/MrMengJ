@@ -15,6 +15,9 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 &emsp;
 
+![GitHub Snake Light](https://raw.githubusercontent.com/MrMengJ/MrMengJ/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/MrMengJ/MrMengJ/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ### Programming Languages 🌐
 
 #### Know/Using
