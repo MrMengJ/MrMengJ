@@ -11,8 +11,8 @@
 
 ### Github Activity
 
-![](https://activity-graph.herokuapp.com/graph?username=MrMengJ&theme=github-light&area=true)
-
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=MrMengJ&theme=github-light&area=true) -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 &emsp;
 
 ### Programming Languages 🌐
