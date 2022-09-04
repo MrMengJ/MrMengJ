@@ -34,12 +34,6 @@ jobs:
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the main branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
-        run: |
-          git config user.name MrMengJ
-          git config user.email mrmengj@gmail.com
-          git add -A .
-          git commit -m "feat: generate snake"
-          git push
         with:
           target_branch: main
           build_dir: dist
